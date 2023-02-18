@@ -6,6 +6,8 @@ sort_timer_lst::sort_timer_lst()
 {
     head = NULL;
     tail = NULL;
+    head = NULL;
+    tail = NULL;
 }
 
 // 定时器链表析构函数

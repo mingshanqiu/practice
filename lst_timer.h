@@ -96,6 +96,7 @@ public:
     sort_timer_lst m_timer_lst;
     static int u_epollfd;
     int m_TIMESLOT;
+    int m_TIMESLOT;
 };
 
 void cb_func(client_data *user_data);
